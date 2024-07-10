@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/profileMomen/static/css/main.534c99df.css",
-    "main.js": "/profileMomen/static/js/main.d884ecc6.js",
-    "static/media/R.png": "/profileMomen/static/media/R.fb59dfc6bb1bac6b0ad0.png",
-    "static/media/git-icon-logo-png-transparent.png": "/profileMomen/static/media/git-icon-logo-png-transparent.0983b7b8f96629e083f1.png",
-    "static/media/html5.png": "/profileMomen/static/media/html5.b71ab0fe4e93b61d05b9.png",
-    "static/media/bootstrap-logo.png": "/profileMomen/static/media/bootstrap-logo.3c4e1a5d3a149087b144.png",
-    "static/media/logo-css-3-2048.png": "/profileMomen/static/media/logo-css-3-2048.bc75ccc78e3bf74f8aed.png",
-    "index.html": "/profileMomen/index.html",
-    "main.534c99df.css.map": "/profileMomen/static/css/main.534c99df.css.map",
-    "main.d884ecc6.js.map": "/profileMomen/static/js/main.d884ecc6.js.map"
+    "main.css": "/profileMomen/home/static/css/main.534c99df.css",
+    "main.js": "/profileMomen/home/static/js/main.b415bab7.js",
+    "static/media/R.png": "/profileMomen/home/static/media/R.fb59dfc6bb1bac6b0ad0.png",
+    "static/media/git-icon-logo-png-transparent.png": "/profileMomen/home/static/media/git-icon-logo-png-transparent.0983b7b8f96629e083f1.png",
+    "static/media/html5.png": "/profileMomen/home/static/media/html5.b71ab0fe4e93b61d05b9.png",
+    "static/media/bootstrap-logo.png": "/profileMomen/home/static/media/bootstrap-logo.3c4e1a5d3a149087b144.png",
+    "static/media/logo-css-3-2048.png": "/profileMomen/home/static/media/logo-css-3-2048.bc75ccc78e3bf74f8aed.png",
+    "index.html": "/profileMomen/home/index.html",
+    "main.534c99df.css.map": "/profileMomen/home/static/css/main.534c99df.css.map",
+    "main.b415bab7.js.map": "/profileMomen/home/static/js/main.b415bab7.js.map"
   },
   "entrypoints": [
     "static/css/main.534c99df.css",
-    "static/js/main.d884ecc6.js"
+    "static/js/main.b415bab7.js"
   ]
 }
